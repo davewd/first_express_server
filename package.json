@@ -1,0 +1,22 @@
+{
+  "name": "first_express_server",
+  "version": "1.0.0",
+  "description": "First version of an express server to test some basics",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davewd/first_express_server.git"
+  },
+  "author": "Davewd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davewd/first_express_server/issues"
+  },
+  "homepage": "https://github.com/davewd/first_express_server#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
